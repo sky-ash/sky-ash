@@ -1,5 +1,7 @@
 <h2 align="left">hi, i'm sky - i am a data science student from germany</h2>
 
+### bad profile readme in progress (it will still look bad when its done)
+
 ###
 
 <div>
